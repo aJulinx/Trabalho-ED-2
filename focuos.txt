@@ -1,0 +1,47 @@
+Cada paciente representa um nó da estrutura encadeada
+a probabilidade de chegar um paciente é de 20%
+
+estrutura do paciente=
+
+.nome
+.cpf
+.idade
+.idenficador de sistema(id)
+
+estrutura de lista pacientes = 
+
+.banco de dados para cada paciente
+
+/*
+A fila de exames funciona da seguinte forma temos 5 aparelhos disponíveis sendo que o primeiro
+paciente da fila para exame é alocado para realização do exame no aparelho  atraves do seu idenficador
+*/
+
+fila de exame=
+A duração do exame é de tex ∼ U(5, 10) unidades de tempo, ou seja, um número inteiro (pseudo-aleatório)
+gerado a partir de um distribuição uniforme com valores entre 5 e 10.
+.
+
+/*
+Ao finalizar o exame deve ser inserido um ladou do exame no final da fila para laudo
+*/
+
+fila para laudo = 
+
+============
+
+
+
+
+
+
+
+
+
+fila de exame e laudos
+
+fila de exame = 
+
+
+
+tempo de saida do t_in = gen_randint(5,10);
