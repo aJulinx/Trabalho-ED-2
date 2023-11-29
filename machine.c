@@ -115,7 +115,3 @@ MachineList *initialize_machines (MachineList *list, int number){
     return list;
 }
 
-void get_pacient_exam_time()
-{
-    
-}
